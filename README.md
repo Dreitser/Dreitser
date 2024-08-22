@@ -25,7 +25,7 @@
 <a href="https://medium.com/@dreitser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dreitser" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=dreitser&show_icons=true&locale=en&layout=compact" alt="dreitser" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=dreitser" alt="dreitser" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreitser&show_icons=true&locale=en&layout=compact" alt="dreitser" /></p>
