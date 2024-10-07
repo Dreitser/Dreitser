@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lex Dreitser</h1>
 <h3 align="center">Immersive Cloud Gaming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreitser&label=Profile%20views&color=0e75b6&style=flat" alt="dreitser" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreitser" alt="dreitser" /></a> </p>
 
 - 📝 I regularly write articles on ([Medium](https://medium.com/@Dreitser/))
