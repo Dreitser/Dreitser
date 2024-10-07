@@ -5,17 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreitser" alt="dreitser" /></a> </p>
 
-- 🔭 I’m currently working on [WHITE LABEL AR](whitelabelar.com)
-
-- 🌱 I’m currently learning **Next, Python, ML, LLMs**
-
-- 👯 I’m looking to collaborate on [10x.Kids](10x.kids)
-
-- 🤝 I’m looking for help with **VC**
-
-- 👨‍💻 All of my projects are available at [devrelations.com](devrelations.com)
-
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium]((https://medium.com/@Dreitser/))
 
 - 💬 Ask me about **Unity, Unreal, OpenCV, Computer Vision, Augmented Reality, VR**
 
