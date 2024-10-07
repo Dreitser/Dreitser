@@ -17,11 +17,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreitser&show_icons=true&locale=en&layout=compact" alt="dreitser" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreitser&" alt="dreitser" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreitser&show_icons=true&locale=en&layout=compact" alt="dreitser" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreitser&" alt="dreitser" /></p>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
