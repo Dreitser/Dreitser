@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreitser" alt="dreitser" /></a> </p>
 
-- 📝 I regularly write articles on [Medium]((https://medium.com/@Dreitser/))
+- 📝 I regularly write articles on ([Medium](https://medium.com/@Dreitser/))
 
 - 💬 Ask me about **Unity, Unreal, OpenCV, Computer Vision, Augmented Reality, VR**
 
